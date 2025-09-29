@@ -1,2 +1,4 @@
 # TG_BOT_Retranslate
 Bot retranslate massage
+BOT_TOKEN=your_bot_token_here
+TARGET_CHAT_ID=your_chat_id_here
